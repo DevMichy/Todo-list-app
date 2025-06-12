@@ -1,0 +1,34 @@
+.whole-box{
+    height: auto;
+}
+.search{
+    height: 40px;
+    border-radius: 30px;
+}
+.delete{
+    width: 22px;
+    margin-left: 12px;
+}
+.edit{
+    width: 20px;
+    margin-left: 12px;
+}
+.mark-done{
+    width: 20px;
+}
+.filtered{
+    display: none !important;
+}
+.list{
+    background-color: #6c757d;
+}
+.list p{
+    width: 70%;
+}
+.change-icon{
+    width: 100px;
+}
+.add{
+    border-radius: 30px;
+    height: 40px;
+}
